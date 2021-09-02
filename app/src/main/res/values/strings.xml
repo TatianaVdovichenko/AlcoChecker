@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlcoChecker</string>
+    <string name="add_plus">+</string>
+    <string name="list">List</string>
+    <string name="your_limit">your limit</string>
+    <string name="save">save</string>
+</resources>
